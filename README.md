@@ -12,7 +12,7 @@ Welcome to our solution for conveniently carrying your [FIDO2 enabled Token2 NFC
 Insert your FIDO2 enabled card into the designated slot on the badge holder. The NFC reader can then be conveniently stored in the compartment beneath the badge. This streamlined design allows for quick and effortless access to your credentials whenever necessary.
 
 ## Get Yours Today
-Download the 3D printable model files and start printing your own badge holder with integrated NFC reader compartment. Simplify your daily routine and maintain a professional appearance with our innovative solution.
+Download the 3D printable model file in your preferred format and start printing your own badge holder with integrated NFC reader compartment. Simplify your daily routine and maintain a professional appearance with our innovative solution.
 
 ## Feedback
 We value your feedback! If you have any questions, suggestions, or would like to share your experience with our badge holder, please [contact us](link to contact page).
