@@ -17,11 +17,8 @@ Insert your FIDO2 enabled card into the designated slot on the badge holder. The
 Download the 3D printable model file in your preferred format and start printing your badge holder with an integrated NFC reader compartment. Simplify your daily routine and maintain a professional appearance with our innovative solution.
 
 ## Feedback
-We value your feedback! If you have any questions, or suggestions, or would like to share your experience with our badge holder, please [contact us](link to contact page).
-
-## Thanks!
-Thank you for considering our badge holder solution with an integrated NFC reader compartment. Upgrade your carrying experience today and enjoy the convenience of having your credentials readily accessible in one streamlined accessory.
-
+We value your feedback! If you have any questions, or suggestions, or would like to share your experience with our badge holder, please [contact us](https://www.token2/swiss/contact) or simply open file an issue in this repo. Your direct pull request are welcome as well, of course.
+ 
 ## Photos
 Here are examples of how your badge will look when paired with our badge holder.
 
