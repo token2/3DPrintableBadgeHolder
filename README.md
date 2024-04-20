@@ -20,7 +20,7 @@ Download the 3D printable model file in your preferred format and start printing
 We value your feedback! If you have any questions, or suggestions, or would like to share your experience with our badge holder, please [contact us](https://www.token2/swiss/contact) or simply open file an issue in this repo. Your direct pull requests are welcome as well, of course.
  
 ## Photos
-Here are examples of how your badge will look when paired with our badge holder.
+Here are examples of how your badge will look when paired with our badge holder. 
 
 ![Badge Holder](https://www.token2.swiss/img/3DBadgeHolder/r/IMG_5537.jpg)
 
@@ -31,3 +31,6 @@ Here are examples of how your badge will look when paired with our badge holder.
 ![Badge Holder](https://www.token2.swiss/img/3DBadgeHolder/r/IMG_5540.jpg)
 
 ![Badge Holder](https://www.token2.swiss/img/3DBadgeHolder/r/IMG_5541.jpg)
+
+
+__Samples printed by [Zunnylab3D](https://www.zummylab3d.fr/)__
