@@ -1,7 +1,7 @@
 # Badge Holder with Integrated NFC Reader Compartment
 
 ## Introduction
-Welcome to our solution for conveniently carrying your FIDO2 enabled Token2 NFC card and Token2 Compact NFC reader in one badge holder. Designed to eliminate the hassle of carrying multiple accessories, our badge holder ensures easy access to your credentials while maintaining a professional appearance.
+Welcome to our solution for conveniently carrying your [FIDO2 enabled Token2 NFC card](https://www.token2.swiss/shop/category/fido2-cards) and [Token2 Compact NFC reader](https://www.token2.swiss/shop/product/token2-t2sr-compact-usb-nfc-and-smart-card-reader) in one badge holder. Designed to eliminate the hassle of carrying multiple accessories, our badge holder ensures easy access to your credentials while maintaining a professional appearance.
 
 ## Features
 - **Integrated Design**: Our badge holder combines a slot for your FIDO2 enabled card with a separate compartment for your NFC reader, providing a seamless solution for on-the-go access.
