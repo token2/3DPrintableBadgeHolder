@@ -33,5 +33,9 @@ Here are examples of how your badge will look when paired with our badge holder.
 
 ![Badge Holder](https://www.token2.swiss/img/3DBadgeHolder/r/IMG_5541.jpg)
 
+![Badge holder with TOTP token](https://token2.com/img/IMG_5940.png)
+
+![Badge holder with TOTP token](https://token2.com/img/IMG_5942.png)
+
 
 __Samples printed by [Zunnylab3D](https://www.zummylab3d.fr/)__
