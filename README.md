@@ -4,7 +4,7 @@
 Welcome to our solution for conveniently carrying your badge and Token2 devices in one badge holder. Designed to eliminate the hassle of carrying multiple accessories, our badge holder ensures easy access to your credentials while maintaining a professional appearance.
 
 ![Badge Holder with NFC Reader compartment](https://www.token2.swiss/img/3DBadgeHolder/r/model.png)
-![Badge Holder with TOTP Token compartment](https://www.token2.swiss/img/aCAI0f.jpg)
+![Badge Holder with TOTP Token compartment](https://www.token2.swiss/img/RMo20s.jpg)
 
 ## Features
 - **Integrated Design**: Our badge holder combines a slot for your badge card with a separate compartment for your Token2 device, providing a seamless solution for on-the-go access.
