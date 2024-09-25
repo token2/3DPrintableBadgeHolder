@@ -1,4 +1,4 @@
-# Badge Holder with Integrated NFC Reader Compartment
+# Badge Holder with Integrated Device Compartment
 
 ## Introduction
 Welcome to our solution for conveniently carrying your badge and Token2 devices in one badge holder. Designed to eliminate the hassle of carrying multiple accessories, our badge holder ensures easy access to your credentials while maintaining a professional appearance.
